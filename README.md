@@ -31,3 +31,8 @@ AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17
 AadSecret:qXx7Q~gOCUqZ9~nzlDQQngutM9JJp1lBs60~c
 AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef
 Name: CONTOSO FRONT DESK
+
+// add new cred
+AadClientId:e1337603-ebe0-4739-82ce-f3c80d1a0d17
+AadSecret:BQv7Q~hIdo~PGJ.5QK7hYy6kadBHsYLKtu2pm
+AadTenantId: 536279f6-15cc-45f2-be2d-61e352b51eef
